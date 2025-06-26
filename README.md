@@ -10,3 +10,5 @@ JavaScript is the brain of the game. It handles:
 - Placing Xs and Os in the correct cells
 - Checking for win conditions or a tie
 - Resetting the game state for a new round
+
+- You can access the site -- https://xanobattle.tiiny.site/
