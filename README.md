@@ -12,3 +12,5 @@ JavaScript is the brain of the game. It handles:
 - Resetting the game state for a new round
 
 - You can access the site -- https://xanobattle.tiiny.site/
+
+- Author --> Sarthak Agrawal
